@@ -1,0 +1,8 @@
+{
+  "name": "MEZMA AI",
+  "description": "An AI-powered photo and video editor. Capture media, apply creative filters, transform your photos into cartoons using AI, and download your creations. A fun and simple way to edit your media.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MEZMA AI",
+  "short_name": "MEZMA AI",
+  "description": "An AI-powered photo and video editor. Capture media, apply creative filters, transform your photos into cartoons using AI, and download your creations. A fun and simple way to edit your media.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0891b2",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
